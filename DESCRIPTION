@@ -1,0 +1,15 @@
+Package: indexMaker
+Title: Index Maker
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Bobby",
+           family = "Fatemi",
+           role = c("aut", "cre"),
+           email = "bfatemi07@gmail.com")
+Description: Construct and Manipulate Indices for Visualizations & Performance Comparisons.
+Encoding: UTF-8
+LazyData: true
+Suggests: 
+    testthat
+RoxygenNote: 6.1.0
+License: MIT + file LICENSE
