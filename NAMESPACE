@@ -2,4 +2,5 @@
 
 export(GetIndexPairs)
 export(build_interval)
+export(converge_to_mid)
 export(index_pigeon)
