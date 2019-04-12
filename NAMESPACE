@@ -2,3 +2,4 @@
 
 export(GetIndexPairs)
 export(build_interval)
+export(index_pigeon)
